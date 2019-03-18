@@ -1,6 +1,6 @@
 # Infront Labs Test
 
-React front-end app for INFRONTLABS.
+React front-end app for INFRONT LABS.
 
 ## Scripts
 
