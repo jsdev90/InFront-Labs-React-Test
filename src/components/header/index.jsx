@@ -15,8 +15,6 @@ const Wrapper = styled.div`
   justify-content: space-between;
   align-items: center;
   box-sizing: border-box;
-  max-width: 1440px;
-  margin: auto;
 `
 
 const LinkBtn = styled(Link)`
